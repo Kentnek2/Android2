@@ -1,0 +1,49 @@
+{
+	"films": [{
+			"id": 1,
+			"title": "Igor",
+			"imageUrl": "https://www.film.ru/sites/default/files/movies/posters/28569082-1054771.jpg",
+			"date": "22.02.1020",
+			"genres": ["drama", "comydy"]
+		},
+		{
+			"id": 2,
+			"title": "Igor Medvedev Brokk",
+			"imageUrl": "https://www.film.ru/sites/default/files/movies/posters/28569082-1054771.jpg",
+			"date": "22.02.1020",
+			"genres": ["drama", "comydy"]
+		},
+		{
+			"id": 3,
+			"title": "Igosssssssr",
+			"imageUrl": "https://www.film.ru/sites/default/files/movies/posters/28569082-1054771.jpg",
+			"date": "",
+			"genres": ["drama", "comydy"]
+		}
+	],
+	"film": [{
+			"id": 1,
+			"title": "Igor",
+			"imageUrl": "https://www.film.ru/sites/default/files/movies/posters/28569082-1054771.jpg",
+			"date": "22.02.1020",
+			"genres": ["drama", "comydy"],
+			"description": "very loooooosssssssssssooooooooong"
+		},
+		{
+			"id": 2,
+			"title": "Igor Medvedev Brokk",
+			"imageUrl": "https://www.film.ru/sites/default/files/movies/posters/28569082-1054771.jpg",
+			"date": "22.02.1020",
+			"genres": ["drama", "comydy"],
+			"description": "very looooooooooooooong"
+		},
+		{
+			"id": 3,
+			"title": "Igosssssssr",
+			"imageUrl": "https://www.film.ru/sites/default/files/movies/posters/28569082-1054771.jpg",
+			"date": "asdasd",
+			"genres": ["drama", "comydy"],
+			"description": "very long"
+		}
+	]
+}
